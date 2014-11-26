@@ -6,6 +6,19 @@
 - violet : #9700B2
 */
 
+#login-screen {
+width: 100%;
+padding: 67px 0 50px 0;
+background-repeat: no-repeat;
+background-color: #ededed ;
+background-image: url(rond_blanc_stela.png);
+background-attachment: fixed;
+margin-right: 0px;
+margin-left: 0px;
+overflow: hidden;
+background-size: 25%;
+background-position: center;
+}
 
 /* balises HTML5 */
 
